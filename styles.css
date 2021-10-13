@@ -1,0 +1,129 @@
+
+body {
+  margin: 0;
+  text-align: center;
+  font-size: 120%
+}
+h1 {
+  font-family: 'Ephesis', cursive;
+  font-size: 3.7rem;
+  margin-top: 50px;
+  margin-bottom: 0
+}
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.2rem;
+  margin-top: 0
+}
+hr {
+  border-width: 5px;
+  border-style: dotted;
+  color: lightgrey;
+  border-bottom: 0;
+  width: 3%
+}
+a {
+  color: #11999E;
+  margin:10px;
+  text-decoration:none;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+h2 {
+  color: #66BFBF;
+}
+p {
+  line-height: 2;
+}
+.top {
+  padding-top: 100px;
+  position: relative;
+}
+.bottomcloud {
+  position: absolute;
+  margin-bottom: 500px;
+  margin-right: 300px;
+}
+.topcloud {
+  position: absolute;
+  top: 50px;
+  right: 300px;
+}
+.profileimage {
+  width: 10%;
+}
+.skill101{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill202{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.myname {
+  color: #66BFBF;
+}
+.undername{
+  color: #66BFBF;
+  font-weight: normal;
+  color: #40514E;
+}
+.headingskill{
+  color: #11999E;
+  margin-bottom: 0
+}
+.top{
+  line-height: 1;
+}
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.h3contact{
+  font-weight: bolder;
+  color: #66BFBF;
+}
+.BUTTON_EDA {
+   background: #59C7C7;
+   background-image: -webkit-linear-gradient(top, #59C7C7, #5A7EB7);
+   background-image: -moz-linear-gradient(top, #59C7C7, #5A7EB7);
+   background-image: -ms-linear-gradient(top, #59C7C7, #5A7EB7);
+   background-image: -o-linear-gradient(top, #59C7C7, #5A7EB7);
+   background-image: -webkit-gradient(to bottom, #59C7C7, #5A7EB7);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #F3F3F3;
+   font-family: Arial;
+   font-size: 14px;
+   font-weight: 100;
+   padding: 6px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 30px;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding-bottom: 10px;
+  padding-top: 20px;
+  line-height: 40px;
+}
+.footer-link{
+  color: #11999E;
+}
+.last{
+  color: #EAF6F6;
+  font-size: 0.6rem;
+}
+.intro{
+  width: 50%;
+  margin: auto;
+
+}
